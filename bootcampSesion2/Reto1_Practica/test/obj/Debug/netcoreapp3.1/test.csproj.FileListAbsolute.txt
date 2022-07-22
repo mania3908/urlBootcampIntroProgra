@@ -1,0 +1,13 @@
+/Users/ppineda/Desktop/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/ppineda/Desktop/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/ppineda/Desktop/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/ppineda/Desktop/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/ppineda/Desktop/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.csproj.AssemblyReference.cache
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/ppineda/Desktop/test/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
